@@ -9,6 +9,7 @@
 #### Technologies
    * HTML
    * CSS
+   * flexboxgrid
 
 #### Contributing
 Pull requests are welcome.
